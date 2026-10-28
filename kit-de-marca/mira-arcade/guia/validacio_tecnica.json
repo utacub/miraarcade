@@ -168,5 +168,19 @@
       ]
     }
   ],
-  "manifest_paths_valid": true
+  "manifest_paths_valid": true,
+  "gaze_dash_correction": {
+    "file": "Mira_Arcade_color_text_blanc_transparent.png",
+    "color": "#090B14",
+    "segments": 3,
+    "changed_pixels": 1104,
+    "changed_bbox": [
+      542,
+      260,
+      642,
+      353
+    ],
+    "unchanged_outside_bbox": true,
+    "visual_check_on_navy": true
+  }
 }

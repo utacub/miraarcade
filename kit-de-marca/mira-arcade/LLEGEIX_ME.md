@@ -11,3 +11,7 @@ Revisió: 28 d’octubre de 2026. Substitueix el kit anterior.
 La imatge Mira definitiva original es conserva sense modificar a referencies/. Els derivats són adaptacions raster; no s’ofereix un original vectorial.
 
 No s’ha modificat ni publicat cap canvi a l’aplicació. La comprovació inclosa és estàtica; cal provar la instal·lació en dispositius després d’integrar els fitxers.
+
+## Correcció inclosa
+
+La versió Mira_Arcade_color_text_blanc_transparent.png incorpora tres ratlles fosques plenes #090B14. Se n’ha comprovat la visibilitat sobre el blau nit i s’ha actualitzat la làmina de marca.

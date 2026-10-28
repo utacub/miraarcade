@@ -12,6 +12,10 @@ Aquest kit substitueix la revisió anterior. Utilitza el logo Mira definitiu apo
 
 Les composicions i les icones són adaptacions raster generades a partir de la referència; no són una reproducció vectorial ni es garanteix identitat píxel a píxel amb l’original. No deformeu els PNG. Les versions monocromes blanques conserven la mateixa màscara alfa que les negres.
 
+## Correcció de les ratlles de mirada
+
+En la versió a color de text blanc transparent, els tres segments són ara plens de blau nit #090B14, en comptes de blancs amb una vora pàl·lida. La correcció afecta únicament la zona de les ratlles. La làmina de marca i la comprovació ampliada inclouen el fitxer corregit.
+
 ## Construcció
 
 La identitat combina Mira, amb la M angular i els ulls humans orientats cap al cursor, amb **Arcade · Òrbita**, que utilitza lletres futuristes arrodonides, accents cian i una trajectòria orbital taronja.
